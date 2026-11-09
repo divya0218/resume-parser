@@ -1,0 +1,97 @@
+{
+    "personal_information": {
+        "full_name": "Aarav Mehta",
+        "email": "aarav.mehta.sample@example.com",
+        "phone": "+91 90000 12345",
+        "location": "Pune, Maharashtra",
+        "linkedin": "linkedin.com/in/aarav-mehta-sample",
+        "github": "github.com/aarav-mehta-sample"
+    },
+    "education": [
+        {
+            "degree": "Degree",
+            "institution": "Institution",
+            "duration": null
+        },
+        {
+            "degree": "B.E. Information Technology",
+            "institution": "Western Valley Institute of Technology",
+            "duration": "2022 - 2026"
+        },
+        {
+            "degree": "Higher Secondary Certificate (HSC)",
+            "institution": "Riverdale Junior College",
+            "duration": "2020 - 2022"
+        }
+    ],
+    "experience": [
+        {
+            "role_and_company": "Python Development Intern — BrightPath Labs | Jan 2025 - Apr 2025",
+            "duration": "Jan 2025 - Apr 2025",
+            "description": [
+                "Built small Python utilities to clean and organize sample datasets.",
+                "Worked with Git and reviewed code changes with a mentor."
+            ]
+        },
+        {
+            "role_and_company": "Web Development Trainee — CodeSpring Studio | Jun 2024 - Aug 2024",
+            "duration": "Jun 2024 - Aug 2024",
+            "description": [
+                "Created responsive pages using HTML, CSS, and JavaScript.",
+                "Tested forms and fixed layout issues across screen sizes."
+            ]
+        }
+    ],
+    "skills": [
+        "Programming: Python",
+        "JavaScript",
+        "SQL",
+        "Web: HTML",
+        "CSS",
+        "Streamlit",
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Pandas",
+        "PyMuPDF"
+    ],
+    "projects": [
+        {
+            "name_and_description": "Resume Data Extractor",
+            "technologies": [
+                "Python",
+                "Streamlit",
+                "PyMuPDF",
+                "Tesseract OCR"
+            ],
+            "description": [
+                "Developed a prototype that extracts resume details from PDFs and images and displays structured information for review."
+            ]
+        },
+        {
+            "name_and_description": "Student Expense Tracker",
+            "technologies": [
+                "Python",
+                "Pandas"
+            ],
+            "description": [
+                "Created a command-line tool to record expenses, calculate totals, and export summaries to CSV."
+            ]
+        },
+        {
+            "name_and_description": "Campus Event Portal",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "description": [
+                "Designed a responsive event listing page with category filters and registration form validation."
+            ]
+        }
+    ],
+    "certifications": [
+        "Python Essentials — Sample Learning Academy, 2024",
+        "Introduction to Data Analytics — Sample Skills Program, 2025"
+    ]
+}
